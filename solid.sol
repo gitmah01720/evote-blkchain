@@ -7,7 +7,7 @@ contract MyCon{ // various datatypes.
     uint256 public y = 23; 
     string public ms = "Mahi";
     address public myadr  = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
-
+ 
     uint[] public ar = [1,34,55];
     string[] public sar = ["a","b"];
     
